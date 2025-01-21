@@ -17,6 +17,7 @@ import { GlobeDemo } from "@/components/ui/GlobeDemo";
 import { FocusCards } from "@/components/ui/FocusCards";
 
 import { CardDemo, CardSkeletonContainer } from "@/components/ui/AnimatedCard";
+import Approach from "@/components/Approach";
 
 const Home = () => {
   const CARDS = [

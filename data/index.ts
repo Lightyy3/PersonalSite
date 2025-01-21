@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "Positivus - Landing Page",
     des: "Explore my digital marketing minimalist site with a surprise.",
-    img: "/p1.svg",
+    img: "/6.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg"],
     link: "/ui.earth.com",
   },
@@ -82,15 +82,15 @@ export const projects = [
     id: 2,
     title: "Keeper -  Google Keep Inspired ",
     des: "An incredibly fast and reliable way to organize your ideas. ",
-    img: "/p2.svg",
+    img: "/5.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
     link: "/ui.yoom.com",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
+    title: " Restaurant First Page",
+    des: "A delicious and appealing design combined with the possibility to share your own meal",
+    img: "/7.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg"],
     link: "/ui.aiimg.com",
   },
@@ -107,29 +107,29 @@ export const projects = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Personal Projects",
+    desc: "Developed and enhanced the interactivity of multiple websites by leveraging cutting-edge web technologies and modern development practices.",
     className: "md:col-span-2",
     thumbnail: "/5.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Software Electronic Project Leader",
+    desc: "Designed and developed various technical documents configurations for Automotive Industry.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/6.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Digital Layout Design Engineer",
+    desc: "Contributed to the development of a sophisticated semiconductor design, demonstrating expertise in advanced engineering principles and methodologies.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Freelance App Dev Project",
+    desc: "Designed, developed, and maintained user-facing features leveraging modern front-end technologies to deliver responsive and intuitive user experiences.",
     className: "md:col-span-2",
     thumbnail: "/4.svg",
   },
@@ -139,13 +139,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    src: "https://github.com/Lightyy3",
   },
   {
     id: 2,
     img: "/twit.svg",
+    src: "https://github.com/Lightyy3",
   },
   {
     id: 3,
     img: "/link.svg",
+    src: "https://www.linkedin.com/in/marius-alexandru-dinu-684a27278/",
   },
 ];
