@@ -1,23 +1,15 @@
 "use client";
 
 import { navItems } from "@/data";
-
 import Hero from "@/components/Hero";
-
 import Footer from "@/components/Footer";
-
 import Experience from "@/components/Experience";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
-
 import React from "react";
-
 import { GlobeDemo } from "@/components/ui/GlobeDemo";
-
 import { FocusCards } from "@/components/ui/FocusCards";
-
-import { CardDemo, CardSkeletonContainer } from "@/components/ui/AnimatedCard";
-import Approach from "@/components/Approach";
+import { CardDemo } from "@/components/ui/AnimatedCard";
 
 const Home = () => {
   const CARDS = [

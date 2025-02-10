@@ -1,7 +1,5 @@
 import React from "react";
-
 import { workExperience } from "@/data";
-
 import { GlareCard } from "./ui/Glare";
 
 const Experience = () => {

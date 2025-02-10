@@ -1,7 +1,5 @@
 import { FaLocationArrow } from "react-icons/fa6";
-
 import MagicButton from "./MagicButton";
-
 import { TypewriterEffectSmooth } from "./ui/Typewriter";
 
 const Hero = () => {
